@@ -24,7 +24,7 @@ O projeto consiste em:
 - CSS
 - Standalone Components
 
-## 📋 Pré-requisitos
+## Pré-requisitos
 
 Certifique-se de ter instalado:
 
