@@ -94,7 +94,7 @@ API disponível:
 - HTTP: http://localhost:5139
 - Swagger: http://localhost:7001/swagger
 
-3.Configurar o Frontend
+3. Configurar o Frontend
 ```bash
 # Em um novo terminal, navegar para a pasta do frontend
 cd product-frontend
